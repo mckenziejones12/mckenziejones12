@@ -1,7 +1,7 @@
 
 ## 👋 Hey there, I'm McKenzie, an aspiring junior software engineer!
 
-🔭 I have nearly completed The Odin Project, a well developed and organized online Fullstack Javascript bootcamp with ample projects to showcase. 
+🔭 I have nearly completed The Odin Project, a well developed and organized open-source Fullstack Javascript bootcamp with ample projects to showcase. 
 
 📫 Reach Me: Email me at jonesmckenzieb@gmail.com or connect with me on LinkedIn.
 
